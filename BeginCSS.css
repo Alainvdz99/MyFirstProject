@@ -1,0 +1,19 @@
+h1 {
+  border: 5px solid purple
+}
+
+
+li {
+  color: #2FEDFF;
+}
+
+h4 {
+  color: #FFBF2A;
+  background: #ff0000
+}
+
+body {
+background: url(https://www.jukeboxprint.com/images/Walnut_Enlarged.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
