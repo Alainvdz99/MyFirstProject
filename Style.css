@@ -1,0 +1,44 @@
+/* font-family */
+
+p {
+    font-family: "Raleway", sans-serif;
+}
+
+h1 {
+    font-family: "Raleway", sans-serif;
+}
+/* font-size */
+body{
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+span {
+    font-size: 4.0em;
+}
+
+/* font-weight */
+
+p {
+    font-weight: bold;
+}
+
+/* line-height */
+p{
+    line-height:1;
+}
+
+/* text-align */
+
+h1 {
+    text-align: right;
+}
+
+/* text-decoration  */
+
+p   {
+    text-decoration: underline
+}
